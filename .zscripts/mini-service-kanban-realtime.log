@@ -1,0 +1,10 @@
+[kanban-realtime] Installing dependencies...
+bun install v1.3.10 (30e609e0)
+
++ socket.io@4.8.3
+
+22 packages installed [240.00ms]
+[kanban-realtime] Running bun run dev...
+$ bun --hot index.ts
+🚀 Kanban Real-time Server running on port 3003
+✅ Server ready for connections
